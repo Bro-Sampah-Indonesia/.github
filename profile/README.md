@@ -18,7 +18,7 @@
 | [**`bro-sampah-be`**](https://github.com/Bro-Sampah-Indonesia/bro-sampah-be) | Core backend API, dispatch engine & business logic | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | `Private` |
 | [**`bro-sampah-mobile`**](https://github.com/Bro-Sampah-Indonesia/bro-sampah-mobile) | On-demand waste pickup mobile application | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `Private` |
 | [**`bro-sampah-admin-dashboard`**](https://github.com/Bro-Sampah-Indonesia/bro-sampah-admin-dashboard) | Operational portal for BSU & logistics monitoring | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `Private` |
-| [**`bro-sampah-web-resmi`**](https://github.com/Bro-Sampah-Indonesia/bro-sampah-web-resmi) | Official landing page & public information center | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `Prviate` |
+| [**`bro-sampah-web-resmi`**](https://github.com/Bro-Sampah-Indonesia/bro-sampah-web-resmi) | Official landing page & public information center | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `Private` |
 
 ---
 
