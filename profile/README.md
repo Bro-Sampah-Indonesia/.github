@@ -1,34 +1,39 @@
-<div align="center">
+﻿<div align="center">
 
 # Bro Sampah Indonesia
 **Smart Waste Management & Circular Economy Platform**
 
 [![Incubation](https://img.shields.io/badge/Incubator-UNS_WIBAWA_2026-0052CC?style=flat-square)](https://uns.ac.id)
 [![Partner](https://img.shields.io/badge/Gov_Partner-DLH_Surakarta-2EA44F?style=flat-square)](https://surakarta.go.id)
-[![Region](https://img.shields.io/badge/Location-Surakarta,_ID-orange?style=flat-square)](#)
+[![SDGs](https://img.shields.io/badge/SDGs-11_%7C_12-E5243B?style=flat-square)](https://sdgs.un.org)
+[![Location](https://img.shields.io/badge/Location-Surakarta,_ID-orange?style=flat-square)](#)
 
 </div>
 
 ---
 
-### 📦 Ecosystem & Repositories
+### 🌐 Platform Overview
+**Bro Sampah** adalah platform digital pengelolaan sampah perkotaan terintegrasi dari hulu ke hilir yang menghubungkan rumah tangga, mitra armada penjemputan (*Bro Jemput* & *Bro Angkut*), Bank Sampah Unit (BSU), dan regulator daerah (*Smart Environment*).
 
-| Repository | Description | Stack | Visibility |
-| :--- | :--- | :--- | :---: |
-| [**`bro-sampah-be`**](https://github.com/Bro-Sampah-Indonesia/bro-sampah-be) | Core backend API, dispatch engine & business logic | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | `Private` |
-| [**`bro-sampah-mobile`**](https://github.com/Bro-Sampah-Indonesia/bro-sampah-mobile) | On-demand waste pickup mobile application | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `Private` |
-| [**`bro-sampah-admin-dashboard`**](https://github.com/Bro-Sampah-Indonesia/bro-sampah-admin-dashboard) | Operational portal for BSU & logistics monitoring | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `Private` |
-| [**`bro-sampah-web-resmi`**](https://github.com/Bro-Sampah-Indonesia/bro-sampah-web-resmi) | Official landing page & public information center | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `Private` |
+* 🚛 **On-Demand Logistics:** Penjemputan sampah terpilah terjadwal dengan sistem penugasan armada cerdas.
+* 🤖 **AI Waste Classifier:** Deteksi jenis dan estimasi timbulan sampah berbasis *Computer Vision*.
+* 🪙 **Gamified Rewards:** Konversi pemilahan sampah hulu menjadi poin insentif dan saldo tabungan warga.
+* 📊 **Integrated Waste Ledger:** Monitoring data persampahan *real-time* terintegrasi dengan TPS 3R dan DLH Surakarta.
 
 ---
 
-### ⚡ What We Build
-* 🚛 **On-Demand Logistics:** Layanan penjemputan sampah terpilah terjadwal (*Bro Jemput* & *Bro Angkut*).
-* 🪙 **Gamified Rewards:** Konversi pemilahan sampah menjadi poin dan saldo tabungan warga.
-* 🏛️ **Gov & BSU Integration:** Sinkronisasi alur data ke Bank Sampah Unit (BSU) dan DLH Surakarta.
+### 🎯 Sustainable Impact
+Berkomitmen mendukung percepatan ekonomi sirkular dan pencapaian target global:
+* **SDG 11:** *Sustainable Cities and Communities*
+* **SDG 12:** *Responsible Consumption and Production*
 
 <br>
 
 <div align="center">
+
+[![Website](https://img.shields.io/badge/Website-brosampah.id-108548?style=flat-square&logo=google-chrome&logoColor=white)](https://brosampah.id)
+[![Contact](https://img.shields.io/badge/Email-dev%40brosampah.id-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:dev@brosampah.id)
+
 <sub>© 2026 Bro Sampah Indonesia • Surakarta, Central Java</sub>
+
 </div>
