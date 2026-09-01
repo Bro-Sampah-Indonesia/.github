@@ -31,8 +31,7 @@ Berkomitmen mendukung percepatan ekonomi sirkular dan pencapaian target global:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-brosampah.id-108548?style=flat-square&logo=google-chrome&logoColor=white)](https://brosampah.id)
-[![Contact](https://img.shields.io/badge/Email-dev%40brosampah.id-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:dev@brosampah.id)
+[![Contact](https://img.shields.io/badge/Contact-brosampah.app%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:brosampah.app@gmail.com)
 
 <sub>© 2026 Bro Sampah Indonesia • Surakarta, Central Java</sub>
 
